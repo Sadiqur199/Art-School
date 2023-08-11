@@ -13,8 +13,10 @@
 4.tailwind css use
 5.json web token added (etc)
 
+#### Server Side Link : https://github.com/Sadiqur199/Art-School-Server
+
 #### Live site link: https://art-school-cbe01.web.app/
 
-###### Admin : Email: artschool@gmail.com ,,, Pass: **artschool*
+###### Admin : Email: artschool@gmail.com ,,, Pass: [**artschool*]
 
   

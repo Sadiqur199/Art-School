@@ -1,5 +1,4 @@
 import React from 'react';
-
 const InstructorCard = ({ instructor }) => {
   const { name, email, image,numClassesTaken } = instructor
   return (

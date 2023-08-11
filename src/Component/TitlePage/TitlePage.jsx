@@ -1,5 +1,4 @@
 import React from 'react';
-
 const TitlePage = ({heading,subheading}) => {
   return (
     <div>
@@ -10,5 +9,4 @@ const TitlePage = ({heading,subheading}) => {
     </div>
   );
 };
-
 export default TitlePage;
